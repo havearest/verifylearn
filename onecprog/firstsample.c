@@ -2,6 +2,6 @@
 
 int main(int argc， char **argv)
 {
-  printf("\nthis is my first sample prog.\n");
+  printf("\nThis is my first sample prog.\n");
   return 1;
 }
